@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Ethical Hacker<br>Programmer<br>Linux User</h2>
+<h2 align="center">Ethical Hacker<br>Programmer<br>Linux User</br></h2>
 
 ###
 
